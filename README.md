@@ -1,4 +1,4 @@
-# MyTest UI (mongo_ui)
+# MyTest UI
 
 myTest ui
 
