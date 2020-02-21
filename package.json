@@ -1,8 +1,8 @@
 {
   "name": "mongo_ui",
   "version": "0.0.1",
-  "description": "mongodb manager ui",
-  "productName": "MongoDB UI",
+  "description": "sample coding",
+  "productName": "Test Game",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "Dino",

@@ -99,9 +99,9 @@ module.exports = ctx => {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'MongoDB UI',
-        short_name: 'MongoDB UI',
-        description: 'mongodb manager ui',
+        name: 'Test Game',
+        short_name: 'Test Game',
+        description: 'my coding sample',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',

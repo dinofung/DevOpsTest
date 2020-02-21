@@ -13,7 +13,7 @@
             @click='$router.push({ name: "CalcGame" }).catch(err => {err})'
             )
             q-item-section
-              q-item-label test1
+              q-item-label Calc Test
               //- q-item-label(caption)
     q-page-container
       router-view
